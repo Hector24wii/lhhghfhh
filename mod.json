@@ -1,0 +1,17 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "mack263.lancelot_bot",
+	"name": "Lancelot_BOT",
+	"version": "v1.0.0",
+	"developer": "MACK263",
+	"description": "OLLAMA Lancelot_BOT",
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	}
+}
